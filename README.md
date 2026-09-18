@@ -1,6 +1,6 @@
 # ui-prompts-cat
 
-https://cat-my-v12.lovable.app/setup/rules/14
+https://cat-my-v12.ai-memory.app/setup/rules/14
 
 
 
