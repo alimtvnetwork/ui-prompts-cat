@@ -8,3 +8,6 @@
 2. **[.ai-memory/01-index.md](.ai-memory/01-index.md):** Repository scope, stack, and directory navigation router.
 3. **[.ai-memory/strictly-avoid.md](.ai-memory/strictly-avoid.md):** Non-negotiable prohibitions and CODE RED rules.
 4. **[.ai-memory/prompts.md](.ai-memory/prompts.md):** Master registry of execution and memory prompts.
+- .ai-memory/memory/readme.md
+- .ai-memory/memory/learned/01-recent-session-2026-10-29.md
+- .ai-memory/plans/readme.md
